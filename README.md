@@ -1,36 +1,23 @@
-# clinividAssignment
-One Paragraph of project description goes here
+# ClinividAssignment
+This git project includes both the working code written in java for coding problem and my intake on solutions for theoritical problems.
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+Please clone the project and run it in any JAVA supported IDE.Project makes use of maven build tools.And as for checking solutions for theoritical questions you need a PDF viewer.
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
+Java should installed and maven too.However I have created a jar file which can be executed from the cmd/terminal throught the following command
 
 ```
-Give examples
+java -jar clinividAssignment-jar-with-dependencies.jar
 ```
 
-### Installing
+### Understand the code flow
 
-A step by step series of examples that tell you have to get a development env running
+Flow starts Main class and I have made use of a interface called CompleteProfile for generating complete profile which is implemented by ProfileBuilder. 
 
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
 
 ## Running the tests
 
-Explain how to run the automated tests for this system
+Provide input in the expected format to get the json and if the format is wrong exception is throw.
