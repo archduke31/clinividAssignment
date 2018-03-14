@@ -13,7 +13,7 @@ Java should installed and maven too.However I have created a jar file which can 
 java -jar clinividAssignment-jar-with-dependencies.jar
 ```
 
-### Understand the code flow
+### Understandng the code flow
 
 Flow starts Main class and I have made use of a interface called CompleteProfile for generating complete profile which is implemented by ProfileBuilder. 
 
