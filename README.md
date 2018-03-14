@@ -3,7 +3,7 @@ This git project includes both the working code written in java for coding probl
 
 ## Getting Started
 
-Please clone the project and run it in any JAVA supported IDE.Project makes use of maven build tools.And as for checking solutions for theoritical questions you need a PDF viewer.
+Please clone the project and run it in any JAVA supported IDE.Project makes use of maven build tools.And as for checking solutions for theoritical questions i.e TheoryAssignments.pdf you need a PDF viewer.
 
 ### Prerequisites
 
